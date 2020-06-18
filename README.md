@@ -19,15 +19,11 @@ tkinter in built in package with python
 
 - Main Screen
 ![](Screenshots/main.png)
-
 - Browse The File
 ![](Screenshots/browse.png)
-
 - click on save button
 ![](Screenshots/save.png)
-
 - it will few seconds to convert, depending upon the size of pdf
 ![](Screenshots/success.png)
-
 - You will find the file as .csv in the same folder as source file
 ![](Screenshots/output.png)
