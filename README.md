@@ -20,14 +20,18 @@ tkinter in built in package with python
 - Main Screen
 ![](Screenshots/main.png)
 <br>
+
 - Browse The File
-![](Screenshots/browse.png)
+- ![](Screenshots/browse.png)
 <br>
+
 - Click on save button
 ![](Screenshots/save.png)
 <br>
+
 - It will few seconds to convert, depending upon the size of pdf
 ![](Screenshots/success.png)
 <br>
+
 - You will find the file as .csv in the same folder as source file
 ![](Screenshots/output.png)
