@@ -18,7 +18,7 @@ tkinter in built in package with python
 ## Screenshots
 
 - Main Screen
-![](Screenshots/main_page.png)
+![](Screenshots/main.png)
 
 - Browse The File
 ![](Screenshots/browse.png)
